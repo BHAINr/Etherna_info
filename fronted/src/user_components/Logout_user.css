@@ -1,0 +1,14 @@
+.dropdown-menu{
+    margin-top: 5vmax;
+    margin-left: 2vmax;
+    padding: 1vmax;
+}
+
+.dropdown-item {
+    color: black;
+    text-decoration: none;
+    padding-left: 2vmax;
+}
+.dropdown-item:hover{
+    color: red;
+}
